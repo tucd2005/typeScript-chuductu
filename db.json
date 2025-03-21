@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Samsung",
+      "description": "Apple Trade In.Nhận 1.000.000đ–22.200.000đ điểm tín dụng để sử dụng khi mua iPhone mới.",
+      "productCode": "Samsung-1",
+      "price": 1000,
+      "image": "https://flowbite.com/docs/images/blog/image-1.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Iphone",
+      "description": "Apple Trade In.Nhận 1.000.000đ–22.200.000đ điểm tín dụng để sử dụng khi mua iPhone mới.",
+      "productCode": "Iphone-1",
+      "price": 2000,
+      "image": "https://flowbite.com/docs/images/blog/image-1.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$k23/szqzwWRVWn2izInOC.kbKW9WilScxYamX9alWRrgq1F9Ye.E2",
+      "name": "Hien",
+      "id": 1
+    }
+  ]
+}
